@@ -1,0 +1,4 @@
+/build/
+/build_pcre2/
+/node_modules/
+/package-lock.json

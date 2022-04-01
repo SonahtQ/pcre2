@@ -1,0 +1,3 @@
+[submodule "deps/jpcre2"]
+	path = deps/jpcre2
+	url = git://github.com/jpcre2/jpcre2.git
