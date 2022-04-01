@@ -1,0 +1,32 @@
+{
+  "name": "pcre2",
+  "version": "0.1.0",
+  "homepage": "https://github.com/SonahtQ/pcre2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SonahtQ/pcre2.git"
+  },
+  "author": "Github users: @SonahtQ, @lezsakdomi, @rrthomas",
+  "description": "A PCRE2 binding for node.js",
+  "main": "./lib/pcre2",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "keywords": [
+    "pcre2",
+    "pcre",
+    "regex",
+    "perl",
+    "libpcre",
+    "regexp",
+    "negative",
+    "positive",
+    "lookbehind",
+    "regex condition",
+    "subroutines"
+  ],
+  "dependencies": {
+    "bindings": "~1.2.1",
+    "nan": "^2.4.0"
+  }
+}
